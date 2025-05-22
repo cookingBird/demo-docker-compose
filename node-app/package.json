@@ -1,0 +1,7 @@
+{
+	"name": "node-app",
+	"dependencies": {
+		"express": "5.1.0",
+		"redis": "5.1.0"
+	}
+}
